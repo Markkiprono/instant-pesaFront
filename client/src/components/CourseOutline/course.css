@@ -1,0 +1,18 @@
+ol li {
+  list-style-type: upper-roman;
+  font-weight: bold;
+  font-size: 1em;
+  margin: 0.5em 0;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
+ol li li {
+  list-style-type: lower-alpha;
+  font-weight: normal;
+  font-size: 0.8em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
